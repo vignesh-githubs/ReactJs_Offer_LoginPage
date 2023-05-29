@@ -187,6 +187,10 @@ input{
 .razor{
   padding-top: 3vh;
 }
+.grayish{
+  background-color: rgb(212, 205, 205);
+  color:gray
+}
 
 
 

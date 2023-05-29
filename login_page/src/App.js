@@ -45,7 +45,7 @@ function App() {
               </div>
             </div>
             <div className='input-box subscription-text no-border'> Select your subscription plan</div>
-            <div className='input-box'>
+            <div className='input-box grayish'>
               <div  className='top-offer float'>Offer expired</div>
               <div className='inputbox-inside'>
                 <div>           
