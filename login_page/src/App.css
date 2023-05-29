@@ -1,0 +1,192 @@
+.main-content{
+  width: 100%;
+  height: 90%;
+  background-color: rgb(49, 48, 61);
+  display: flex;
+  padding-bottom: 30px;
+}
+.courseinfo {
+  width: 60%;
+  height: 100%;
+  color: white;
+  padding: 4vh 0 0 6vw;
+}
+.courseinfo-header{
+  font-size: 3vw;
+  color: white;
+}
+.courseinfo-content{
+  padding-top: 2vh ;
+}
+.courseinfo-content div{
+  padding: 10px 0;
+  font-size: 2vw;
+}
+.content-blue-section{
+  color:#0096FF;
+}
+.striking{
+  color: #FF0000;
+}
+.number-color{
+  color: white;
+}
+.form{
+  width: 40%;
+  height: 100%;
+  padding: 30px 0px 10px 100px;
+  }
+  .form-block{
+    width: 80%;
+    height:100%;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 2px 1px 1px;
+    padding: 20px;
+   
+  }
+
+  .form-input-boxes{
+    display: flex;
+    justify-content: flex-start;
+    gap: 2vh;
+    flex-direction: column;
+    width: 100%;
+    height:60%;
+
+ 
+  }
+  .input-box{
+    width:100%;
+    height: 18%;
+    border: 1px solid rgb(61, 57, 57);
+    
+  }
+  .number{
+    margin-left:30px ;
+    display: flex;
+    justify-content:space-around ;
+    flex-direction: row;
+    border: none;
+  }
+  .no-border{
+    border: none;
+  }
+  .circle{
+width: 20px;
+height: 20px;
+border-radius: 50%;
+text-align: center;
+color: white;
+background-color: blue;
+
+  }
+  .subscription-text{
+    text-align: center;
+    padding-left: 2vw;
+    font-size: 2vh;
+    font-weight: bold;
+  }
+  .top-offer{
+    background-color: red;
+    
+  }
+  .top-recommended{
+    background-color: #47BA68;
+  }
+  .float{
+    position: absolute;
+    padding: 0 10px;
+    border-radius: 5px  ;
+    left:70vw;
+
+  }
+
+  input[type="radio"] {
+    -webkit-appearance: checkbox; /* Chrome, Safari, Opera */
+    -moz-appearance: checkbox;    /* Firefox */
+    -ms-appearance: checkbox;     /* not currently supported */
+  }
+  .inputbox-inside{
+    display: flex;
+    justify-content: space-between;
+    padding: 3vh 1vw 0.5vw;
+
+  }
+  .radio-content{
+    font-size: 2.5vh;
+  }
+  input[type=radio] {
+    border: 0px;
+    width: 3vw;
+    height: 3vh;
+}
+.hr-line{
+  margin:0.5vh 0;
+}
+.below-section{
+  margin-top: 2vh;
+  display: flex;
+  height: 18vh;
+  /* border: 1px solid violet; */
+  flex-direction: column;
+}
+.below-section-child{
+  width:100%;
+  height:5vh;
+
+
+}
+.second-child{
+  flex-grow:1;
+  border: 1px solid red;
+  border-radius: 10px;
+}
+.below-section-child-text{
+  display: flex;
+    justify-content: space-between;
+    padding: 1vh 1vw 0 1.5vw;
+
+}
+.offer-section{
+margin: 1vh 0;
+}
+.text-child{
+  color:#d13131
+}
+.amount{
+  font-size: 1.5vh;
+}
+.button-section{
+  height: 6vh;
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
+}
+.button-container {
+  width: 45%;
+  height: 6vh;
+}
+.button-container > input{
+  width: 100%;
+  height: 6vh;
+}
+input{
+  border: none;
+}
+.cancel{
+  color: red;
+  border: 1px solid red;
+  background-color: white;
+}
+.pay{
+  color: white;
+  background-color: rgb(61, 214, 61);
+  
+}
+.razor{
+  padding-top: 3vh;
+}
+
+
+
